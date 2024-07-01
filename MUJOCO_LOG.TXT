@@ -1,0 +1,6 @@
+Mon Jul  1 21:29:10 2024
+WARNING: Inertia matrix is too close to singular at DOF 4. Check model. Time = 0.0000.
+
+Mon Jul  1 21:29:30 2024
+WARNING: Inertia matrix is too close to singular at DOF 33. Check model. Time = 0.0000.
+
