@@ -9,7 +9,7 @@ If you want to train an AI agent this should be possible in a colab notebook (so
 
 #TO DO:
 1) figure out how to make a gym environment using this tutorial notebook https://colab.research.google.com/github/google-deepmind/dm_control/blob/main/tutorial.ipynb#scrollTo=ggVbQr5hZFl5
-2) figure out how to make a reward function or task that allows the agents to atleast stay in one position.
+2) figure out how to use reinforcement learning using in colab notebook using this tutorial https://colab.research.google.com/github/jeffheaton/app_deep_learning/blob/main/t81_558_class_12_1_ai_gym.ipynb#scrollTo=UImTzmGTIeX9
 3) figure out how to make a reward function that works on both humanoid agents so that they are rewarded for going to a dominant position (to basically fight each other).
 4) figure out how to make a points system for bjj.
 
